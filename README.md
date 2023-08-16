@@ -29,9 +29,7 @@
 
   </div>
     
-
-
-
+![Snake animation](https://github.com/alef2006/alef2006/blob/output/github-contribution-grid-snake.svg)
 
 
 

@@ -28,8 +28,9 @@
    <a href="https://www.linkedin.com/in/alef-ryan-passos-santos-57855b230/?originalSubdomain=br"><image height="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   </div>
-    
-![Snake animation](https://github.com/alef2006/alef2006/blob/output/github-contribution-grid-snake.svg)
+
+<!--![Snake animation](https://github.com/alef2006/alef2006/blob/output/github-contribution-grid-snake.svg)
+ -->
 
 
 

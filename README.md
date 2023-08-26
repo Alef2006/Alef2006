@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009&height=120&section=header"/>
+
 # I'm Alef Ryan
 <div>
     <image src="https://github-readme-stats.vercel.app/api?username=alef2006&show_icons=true&theme=tokyonight">

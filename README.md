@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alef+Ryan;I'm+16+years+old;I+am+from+Brazil,+SE;I+am+a+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 # I'm Alef Ryan
 <div>
     <image src="https://github-readme-stats.vercel.app/api?username=alef2006&show_icons=true&theme=tokyonight">

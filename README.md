@@ -28,12 +28,8 @@
   <div>
    <a href="https://www.instagram.com/dev_alef.ryan/"><image height="" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/alef-ryan-passos-santos-57855b230/?originalSubdomain=br"><image height="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009f&height=120&section=footer"/>
   </div>
 
 <!--![Snake animation](https://github.com/alef2006/alef2006/blob/output/github-contribution-grid-snake.svg)
  -->
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009f&height=120&section=footer"/>
